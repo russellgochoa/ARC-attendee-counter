@@ -5,6 +5,7 @@ body {
     color: whitesmoke;
     font-weight: bold;
     text-align: center;
+    height: 100vh;
 }
 
 h1 {
