@@ -1,0 +1,48 @@
+body {
+    background-image: url("record-unsplash.jpg");
+    background-size: cover;
+    font-family: 'Helvetica Neue';
+    color: whitesmoke;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    color: whitesmoke;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    color: whitesmoke;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: whitesmoke;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.container {
+    background: clear;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid whitesmoke;
+    border-radius: 10px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: blue;
+}
